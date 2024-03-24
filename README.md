@@ -10,7 +10,7 @@
 2. clone本仓库，或到release下载压缩包
 3. 将项目解压到你的插件文件夹下
 4. 安装git **注意：如果在windows部署，安装git的时候一定要将git添加到path！！！！**
-5. 请使用https://github.com/KonataDev/Lagrange.Core作为qq协议端，因为用了超级多的文件api，不保证gocq和其他协议能跑
+5. 请使用KonataDev/Lagrange.Core 作为qq协议端，因为用了超级多的文件api，不保证gocq和其他协议能跑
 
 ## 使用
 `@bot 新建企划`
@@ -43,7 +43,7 @@
 
 ## 鸣谢
 感谢以下项目对ocgit的支持
-1. https://github.com/git/git ~~封装了一个git到qq插件上，感谢老祖宗~~
-2. https://github.com/KonataDev/Lagrange.Core 赞美热心外国网友
-3. https://github.com/nonebot/nonebot2 真的好用，我爱你
+1. git/git ~~封装了一个git到qq插件上，感谢老祖宗~~
+2. KonataDev/Lagrange.Core 赞美热心外国网友
+3. nonebot/nonebot2 真的好用，我爱你
 
