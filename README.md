@@ -9,7 +9,7 @@
 1. 在你的虚拟环境下执行`pip install -r requirement.txt`， 或者手动安装gitpython和aiohttp
 2. clone本仓库，或到release下载压缩包
 3. 将项目解压到你的插件文件夹下
-4. 安装git ** 注意：如果在windows部署，安装git的时候一定要将git添加到path！！！**
+4. 安装git **注意：如果在windows部署，安装git的时候一定要将git添加到path！！！！**
 5. 请使用https://github.com/KonataDev/Lagrange.Core作为qq协议端，因为用了超级多的文件api，不保证gocq和其他协议能跑
 
 ## 使用
